@@ -233,6 +233,7 @@ C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\bin\System
 C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\bin\WebGrease.dll
 C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\bin\EntityFramework.xml
 C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\bin\EntityFramework.SqlServer.xml
+C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\bin\System.Web.Helpers.xml
 C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\bin\System.Web.Mvc.xml
 C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\bin\System.Web.Optimization.xml
@@ -244,7 +245,6 @@ C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\bin\Newton
 C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\bin\Antlr3.Runtime.pdb
 C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\bin\Microsoft.AspNet.TelemetryCorrelation.xml
-C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\obj\Debug\InsuranceCar.csproj.AssemblyReference.cache
 C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\obj\Debug\InsuranceCar.csproj.CoreCompileInputs.cache
 C:\Users\root\Documents\GitHub\CarInsurance\InsuranceCar\InsuranceCar\obj\Debug\InsuranceCar.dll
